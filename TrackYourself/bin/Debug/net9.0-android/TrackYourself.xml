@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TrackYourself</name>
+    </assembly>
+    <members>
+        <member name="T:TrackYourself.Models.ViewModels.MainPageViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="P:TrackYourself.Models.ViewModels.MainPageViewModel.Latitude">
+            <inheritdoc cref="F:TrackYourself.Models.ViewModels.MainPageViewModel.latitude"/>
+        </member>
+        <member name="P:TrackYourself.Models.ViewModels.MainPageViewModel.Longitude">
+            <inheritdoc cref="F:TrackYourself.Models.ViewModels.MainPageViewModel.longitude"/>
+        </member>
+        <member name="P:TrackYourself.Models.ViewModels.MainPageViewModel.IsListening">
+            <inheritdoc cref="F:TrackYourself.Models.ViewModels.MainPageViewModel.isListening"/>
+        </member>
+        <member name="P:TrackYourself.Models.ViewModels.MainPageViewModel.ListeningButtonText">
+            <inheritdoc cref="F:TrackYourself.Models.ViewModels.MainPageViewModel.listeningButtonText"/>
+        </member>
+        <member name="F:TrackYourself.Models.ViewModels.MainPageViewModel.changeListeningModeCommand">
+            <summary>The backing field for <see cref="P:TrackYourself.Models.ViewModels.MainPageViewModel.ChangeListeningModeCommand"/>.</summary>
+        </member>
+        <member name="P:TrackYourself.Models.ViewModels.MainPageViewModel.ChangeListeningModeCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IRelayCommand"/> instance wrapping <see cref="M:TrackYourself.Models.ViewModels.MainPageViewModel.ChangeListeningMode"/>.</summary>
+        </member>
+        <member name="T:TrackYourself.Resource">
+            <summary>
+            Android Resource Designer class.
+            Exposes the Android Resource designer assembly into the project Namespace.
+            </summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Latitude">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Latitude" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.Longitude">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "Longitude" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.IsListening">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "IsListening" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangingArgs.ListeningButtonText">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangingEventArgs"/> instance for all "ListeningButtonText" generated properties.</summary>
+        </member>
+        <member name="T:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs">
+            <summary>
+            A helper type providing cached, reusable <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instances
+            for all properties generated with <see cref="T:CommunityToolkit.Mvvm.ComponentModel.ObservablePropertyAttribute"/>.
+            </summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Latitude">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Latitude" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.Longitude">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "Longitude" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.IsListening">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "IsListening" generated properties.</summary>
+        </member>
+        <member name="F:CommunityToolkit.Mvvm.ComponentModel.__Internals.__KnownINotifyPropertyChangedArgs.ListeningButtonText">
+            <summary>The cached <see cref="T:System.ComponentModel.PropertyChangedEventArgs"/> instance for all "ListeningButtonText" generated properties.</summary>
+        </member>
+    </members>
+</doc>
